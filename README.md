@@ -27,5 +27,7 @@ citation: Go, A., Bhayani, R. and Huang, L., 2009. Twitter sentiment classificat
 
 # Download from nltk
 nltk.download('stopwords')
+
 nltk.download('wordnet')
+
 nltk.download('omw-1.4')
