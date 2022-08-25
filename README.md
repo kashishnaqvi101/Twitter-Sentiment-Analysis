@@ -4,6 +4,8 @@ Analysis of negative and positive tweets by twitter users based on classifying t
 Goes through various steps in NLP such as stopwords dealing, stemming, lemmatization,etc.
 
 # About this Dataset
+Link: https://www.kaggle.com/datasets/kazanova/sentiment140 
+
 Context
 
 This is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api . The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment .
